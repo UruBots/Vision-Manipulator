@@ -79,4 +79,3 @@ pkill -9 gzserver; pkill -9 gzclient; pkill -9 -f gazebo
 *   `open_manipulator_x_bringup/worlds/empty_world.model`: Mundo con plugin de estados habilitado.
 
 ---
-**Desarrollado para:** Facundo FG (Vision-Manipulator Project)
