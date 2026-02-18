@@ -1,4 +1,4 @@
-# Vision-Manipulator 🦾👁️
+# Vision-Manipulator
 
 Este repositorio contiene una implementación personalizada del **OpenMANIPULATOR-X** en **ROS 2 Humble**, integrada con un sistema de visión artificial para realizar tareas de Pick and Place automáticas en **Gazebo**.
 
